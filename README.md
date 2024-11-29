@@ -1,11 +1,14 @@
-Heyy 哈喽! よ
-Note
-I'm open to work, HMU if your company is building something awesome.
+# Heyy 哈喽! よ
+> [!NOTE]  
+> I'm open to work, HMU if your company is building something awesome.
+### I'm  a 20 year old based upon india
 
 
+<!-- test !-->
 
-I'm  a 20 year old  based upon india
-👾 I do engineering in Frontend, Backend, Ethereum and more!
-👀 Currently learning about startups, chinese and japanese.
-📫 How to reach me: Twitter, Discord
+- 👾 I do engineering in Frontend, Backend, Ethereum and more!
+- 👀 Currently learning about startups, chinese and japanese.
+-
+- 📫 How to reach me: [Twitter](https://twitter.com/pawanpediredla)
+
 ps. I love rust and typescript :D
